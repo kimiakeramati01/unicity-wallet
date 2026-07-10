@@ -230,3 +230,32 @@ transform:translateY(-8px);
 border-color:#ff7a00;
 transition:.3s;
 }
+.transactions{
+padding:80px 8%;
+}
+
+.transactions h2{
+text-align:center;
+margin-bottom:30px;
+font-size:38px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+background:#181818;
+border-radius:18px;
+overflow:hidden;
+}
+
+th{
+background:#ff7a00;
+padding:16px;
+color:#fff;
+}
+
+td{
+padding:16px;
+border-bottom:1px solid #333;
+text-align:center;
+}
